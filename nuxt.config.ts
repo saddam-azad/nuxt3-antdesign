@@ -32,6 +32,7 @@ export default defineNuxtConfig({
   },
   css: 
   [
+    'ant-design-vue/dist/antd.min.css',
     '~/assets/less/index.less'
   ],
   vite: {
